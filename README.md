@@ -32,6 +32,6 @@
 
 <img src="https://user-images.githubusercontent.com/80215860/215326920-7e4c464e-23f9-4b38-8df2-115e6093d9fa.png" width=550>
 
-### Frontend tests using Selenium:
+### Selenium tests for frontend:
 
 <img src="https://user-images.githubusercontent.com/73616883/217379287-63164bba-42f6-4a76-a3a1-f60a8a0433e7.png" width=550>
